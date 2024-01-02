@@ -1,3 +1,3 @@
 ## Url
 
-- [Complete Project](https://tissusstore.netlify.app/)
+- [click to see Project](https://tissusstore.netlify.app/)
